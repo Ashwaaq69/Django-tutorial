@@ -1,0 +1,29 @@
+[
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "calculatorapp",
+        "description": "calculatorapp",
+        "peekOfCode": "num1 = int(input(\"ENter the first number: \"))\nnum2 = int(input(\"Enter the second number: \"))\nopt = input(\"Enter the operator: \")\nif opt == '+':\n    print(\"the adition is \", num1 + num2)\nelif opt == '-':\n    print(\"the subtraction is \", num1 - num2)\nelif opt == '*':\n    print(\"the multiplication is \", num1 * num2)  \nelif opt == '/':",
+        "detail": "calculatorapp",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "calculatorapp",
+        "description": "calculatorapp",
+        "peekOfCode": "num2 = int(input(\"Enter the second number: \"))\nopt = input(\"Enter the operator: \")\nif opt == '+':\n    print(\"the adition is \", num1 + num2)\nelif opt == '-':\n    print(\"the subtraction is \", num1 - num2)\nelif opt == '*':\n    print(\"the multiplication is \", num1 * num2)  \nelif opt == '/':\n    print(\"the division is \", num1 / num2)  ",
+        "detail": "calculatorapp",
+        "documentation": {}
+    },
+    {
+        "label": "opt",
+        "kind": 5,
+        "importPath": "calculatorapp",
+        "description": "calculatorapp",
+        "peekOfCode": "opt = input(\"Enter the operator: \")\nif opt == '+':\n    print(\"the adition is \", num1 + num2)\nelif opt == '-':\n    print(\"the subtraction is \", num1 - num2)\nelif opt == '*':\n    print(\"the multiplication is \", num1 * num2)  \nelif opt == '/':\n    print(\"the division is \", num1 / num2)  \nelse:",
+        "detail": "calculatorapp",
+        "documentation": {}
+    }
+]
